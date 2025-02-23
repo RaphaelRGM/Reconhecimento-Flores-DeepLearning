@@ -1,8 +1,5 @@
-# Ignorar a pasta archive e tudo dentro dela
 archive/
 
-# Ignorar a pasta venv e tudo dentro dela
 venv/
 
-# Ignorar o arquivo archive.zip
 archive.zip
